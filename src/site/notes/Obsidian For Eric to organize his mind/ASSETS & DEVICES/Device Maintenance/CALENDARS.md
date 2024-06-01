@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/calendars/"}
 ---
 
+# CALENDARS
 
 Google Calendars are used TO TRACk maintenance schedule
 
@@ -12,6 +13,7 @@ Google Calendars are used TO TRACk maintenance schedule
 
 
 
+# MAINTENANCE SCHEDULE
 
 This is where we give a list of tasks necessary for the smooth operation of SIH devices. 
 
