@@ -16,8 +16,9 @@ Windows computer setup will be broken down into two parts:
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
+![WindowsISO.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/WindowsISO.jpg)
 
-<iframe src="https://drive.google.com/file/d/1zhzBUqErzzv-wlB8AUT5NgbKDJbUQzMq/view" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 
 The flashdrive shown above has the following list of windows iso files:
@@ -45,7 +46,8 @@ Version 1 of windows refers to the version that came pre-installed with the comp
 
 1. _Windows OS installation_ Which can be found on the [OS_ISO](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/OS_ISO) branch of our github documentation
 
-<iframe src="https://drive.google.com/file/d/1Fw-_nMnFrNlqqTzO25SSzY3WYpZ1tUOs/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
+![WindowsInstallation.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/WindowsInstallation.jpg)
+
 
 
 The 4 Bootable flashdrives to the right are Windows 10 installation drives with the following differences:
@@ -69,10 +71,8 @@ To the right, the flashdrive has all the iso and software that can be used to cr
 
 2. _Software Installation._ Which can be found on the [Win10_lean](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_lean) or [Win10_LTSC](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_LTSC) branches of our github account. These flash drives are to be used with their respective flavors of windows installation. They contain scripts which creates user accounts, removes excess programmes and installs required programmes.
     
-
+![SoftwareInstallation.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/SoftwareInstallation.jpg)
   
-<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
-<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view" width="800" height="600" title="Embedded Google Doc"></iframe>
 
 
 
