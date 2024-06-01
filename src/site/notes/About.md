@@ -3,7 +3,6 @@
 ---
 
 
-test
 The DRL is a public access library of basic technologies. This includes computing devices like laptops, mobile devices like tablets, audio-visual devices like cameras and recorders and a range of accessories.
 
 To ensure the sustainability of the library, the management of devices and leases must be well structured. As a digital social innovation, the library uses accessible digital tools to manage its operations.
@@ -19,13 +18,17 @@ This document describes the management and operations of the digital resource ce
 [Additional resources fo DRL](https://docs.google.com/document/d/1nmzcbd7gG5CQVDUhx_hyGtRAGhbBkAEhI4X7cxRPXBg/edit?usp=sharing)
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/assets-and-devices/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/asset-management/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -47,7 +50,8 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/manual-asset-register/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -57,7 +61,9 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/automated-asset-register/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -72,7 +78,9 @@ Asset registers are methods through which we keep track of our assets. There are
 ==**Describe budget tracking**==
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/automated-asset-management-tools/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -128,12 +136,18 @@ The following devices are being tracked.
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/device-maintenance/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/calendars/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -141,7 +155,9 @@ Google Calendars are used TO TRACk maintenance schedule
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/maintenance-schedule/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -175,20 +191,25 @@ This is where we give a list of tasks necessary for the smooth operation of SIH 
   
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/windows-computer-setup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
 Windows computer setup will be broken down into two parts:
 
 1. 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/the-difference-between-windows-iso-types/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
 
-<img src="file:///home/eric/Insync/kamau757@gmail.com/Google Drive - Shared drives/Social Innovation Hub/3. DIGITAL ACCESS/Digital Resource Library (Equipment)/Methods of operating/Obsidian For Eric to organize his mind/ASSETS & DEVICES/Device Maintenance/WindowsISO.jpg" alt="Diagram" width="300" height="500">
+<iframe src="https://drive.google.com/file/d/1zhzBUqErzzv-wlB8AUT5NgbKDJbUQzMq/view" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 The flashdrive shown above has the following list of windows iso files:
 1. 
@@ -215,12 +236,7 @@ Version 1 of windows refers to the version that came pre-installed with the comp
 
 1. _Windows OS installation_ Which can be found on the [OS_ISO](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/OS_ISO) branch of our github documentation
 
-
-
-
-
-<img src="file:///home/eric/Insync/kamau757@gmail.com/Google Drive - Shared drives/Social Innovation Hub/3. DIGITAL ACCESS/Digital Resource Library (Equipment)/Methods of operating/Obsidian For Eric to organize his mind/ASSETS & DEVICES/Device Maintenance/WindowsInstallation.jpg" alt="Diagram" width="300" height="500">
-
+<iframe src="https://drive.google.com/file/d/1Fw-_nMnFrNlqqTzO25SSzY3WYpZ1tUOs/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
 
 
 The 4 Bootable flashdrives to the right are Windows 10 installation drives with the following differences:
@@ -245,8 +261,9 @@ To the right, the flashdrive has all the iso and software that can be used to cr
 2. _Software Installation._ Which can be found on the [Win10_lean](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_lean) or [Win10_LTSC](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_LTSC) branches of our github account. These flash drives are to be used with their respective flavors of windows installation. They contain scripts which creates user accounts, removes excess programmes and installs required programmes.
     
 
-<img src="file:///home/eric/Insync/kamau757@gmail.com/Google Drive - Shared drives/Social Innovation Hub/3. DIGITAL ACCESS/Digital Resource Library (Equipment)/Methods of operating/Obsidian For Eric to organize his mind/ASSETS & DEVICES/Device Maintenance/SoftwareInstallation.jpg" alt="Diagram" width="300" height="500">
   
+<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 There is a [script](https://drive.google.com/drive/folders/1iBlNXMg1huBp4YyCMhtNqsTUaIEf1xi3?usp=share_link) that can be run to set up all needed software and login info for computers and laptops.
 
@@ -264,7 +281,9 @@ S – is the offline setup for computers and laptops
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/tools/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -284,13 +303,9 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/ruce-staff-device-management/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-
-
-
-</div></div>
 
 
 
@@ -305,13 +320,22 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
+</div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/account-information/account-information/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/account-information/google-accounts/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -348,12 +372,16 @@ This is a less secure admin account for the Social Innovation Hub and can be use
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/password-management/password-management/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/password-management/bitwarden/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -383,14 +411,18 @@ Every new Equipment Manager should change the Bitwarden and Gmail passwords unde
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/internet-connection/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
 ==_**Mou with Rhodes University Information and Technology Services**_==
 
 ## 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/sih-fixed-lab/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -401,7 +433,8 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 2. _**RUCE; Social Innovation Hub**_ is our own wifi, password Wsih2022 also on Bitwarden. There are a number of ways to make this wifi.
     
     1. Using a Dell Laptop, connect to eduroam or rucelab, then enable hotspot using the ssid mentioned above. This is however a temporary solution as the laptop may be leased, and also allows only a limited number of laptops to connect simultaneously. ==Details on how to use the desktop computer as a hotspot can be found here:== 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/configuring-and-using-pc-and-laptop-hotspot/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -411,7 +444,8 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
         
     2. Using a Desktop computer connected to the internet via ethernet cable and a usb wifi dongle, you can start a wifi hotspot the same way as (1) above. This works as long as the desktop is turned on. Also, from experience, the wifi signal from this strategy is not that strong and does not travel far, therefore, inadequate for large classes occupying the social innovation hub. ==Details on how to use the desktop computer as a hotspot can be found here:== 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/configuring-and-using-pc-and-laptop-hotspot/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -421,7 +455,8 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
         
     3. Using the Huawei LTE router, connect an ethernet cable from the WAN port of the router to the ethernet outlet on the wall, then plug into the power supply. Our Hub’s router’s ssid and password have already been configured to match the details above, and the router configured to act as a bridge. After you connect to this router’s wifi, you will be brought a login screen, where you will register the router the way you’d register a device connected to the ethernet like a desktop. Once registered, the router’s mac address is attached to your rhodes credentials and anyone who connects to this wifi can now browse the internet. ==Details for configuring this specific model of the router can be found here:== 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/configuring-huawei-lte-router-to-act-as-a-bridge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
@@ -449,7 +484,9 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/communication-and-access/communication-and-access/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
@@ -466,7 +503,9 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/storage-and-file-transferring/storage-and-file-transferring/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
 
 
 
