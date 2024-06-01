@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/automated-asset-register/"}
 ---
 
-
+# AUTOMATED ASSET REGISTER
 ## [**Asset Tiger**](https://www.myassettag.com/assettiger/dashboard)
 
 [Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a device management software used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
@@ -19,6 +19,7 @@
 
 
 
+# AUTOMATED ASSET MANAGEMENT TOOLS
 
 ## [**Zapier.com**](https://zapier.com/)
 
@@ -46,6 +47,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google drive using zapier
 
 
 </div></div>
@@ -56,6 +58,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google tasks using zapier
 
 
 </div></div>
