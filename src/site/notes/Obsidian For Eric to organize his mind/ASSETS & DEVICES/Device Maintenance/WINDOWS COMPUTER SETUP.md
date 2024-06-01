@@ -4,7 +4,7 @@
 
 # WINDOWS COMPUTER SETUP
 
-Windows computer setup will be broken down into three parts:
+Windows computer setup will be broken down into four parts:
 
 
 1. 
@@ -150,27 +150,37 @@ These installation drives have the following differences:
 
   
 
-
-
-
-
-
-
 3. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/installing-windows-10-on-a-pc-or-laptop/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+==Add details on Installing Windows 10 on a PC or laptop with screenshots / pictures==
+
+</div></div>
+
+
+
+
+
+
+4. 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/windows-10-software-installation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-
 # Windows 10 Software Installation
+==Proper Documentation Needed==
+
 To the right, the flashdrive has all the iso and software that can be used to create Bootable flashdrives
 
 2. _Software Installation._ Which can be found on the [Win10_lean](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_lean) or [Win10_LTSC](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_LTSC) branches of our github account. These flash drives are to be used with their respective flavors of windows installation. They contain scripts which creates user accounts, removes excess programmes and installs required programmes.
     
 ![SoftwareInstallation.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/SoftwareInstallation.jpg)
   
-==Proper Documentation Needed==
+
 
 
 There is a [script](https://drive.google.com/drive/folders/1iBlNXMg1huBp4YyCMhtNqsTUaIEf1xi3?usp=share_link) that can be run to set up all needed software and login info for computers and laptops.
