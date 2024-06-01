@@ -43,6 +43,7 @@ Asset registers are methods through which we keep track of our assets. There are
 [Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a device management software used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
 
 ==**Describe categories**==
+![[AssetByCategory.pdf]]
 
 ==**Describe leases vs check outs**==
 
