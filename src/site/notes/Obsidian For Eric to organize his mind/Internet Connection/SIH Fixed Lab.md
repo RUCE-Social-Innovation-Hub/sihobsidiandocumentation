@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/internet-connection/sih-fixed-lab/"}
 ---
 
+# SIH Fixed Lab
+
 
 There are a number of ways to connect to the internet from SIH Fixed lab at Rhodes University as documented below.
 
@@ -15,6 +17,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring and using PC and laptop hotspot
 
 
 </div></div>
@@ -26,6 +29,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring and using PC and laptop hotspot
 
 
 </div></div>
@@ -37,6 +41,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring Huawei LTE router to act as a bridge
 
 
 </div></div>
