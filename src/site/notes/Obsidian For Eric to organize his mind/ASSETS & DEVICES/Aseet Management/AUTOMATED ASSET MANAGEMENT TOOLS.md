@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/automated-asset-management-tools/"}
 ---
 
+# AUTOMATED ASSET MANAGEMENT TOOLS
 
 ## [**Zapier.com**](https://zapier.com/)
 
@@ -29,6 +30,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google drive using zapier
 
 
 </div></div>
@@ -39,6 +41,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google tasks using zapier
 
 
 </div></div>
