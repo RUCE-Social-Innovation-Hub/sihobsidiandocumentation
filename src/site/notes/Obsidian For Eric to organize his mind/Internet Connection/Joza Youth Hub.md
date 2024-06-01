@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/internet-connection/joza-youth-hub/"}
 ---
 
+# Joza Youth Hub
+
 
 1. _**rucelab**_ can also be connected to with registered SIH devices.
     
