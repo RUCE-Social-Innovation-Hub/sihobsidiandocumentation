@@ -6,8 +6,9 @@
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
+![WindowsISO.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/WindowsISO.jpg)
 
-<iframe src="https://drive.google.com/file/d/1zhzBUqErzzv-wlB8AUT5NgbKDJbUQzMq/view" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 
 The flashdrive shown above has the following list of windows iso files:
