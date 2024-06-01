@@ -4,7 +4,7 @@
 
 # About
 
-The DRL is a public access library of basic technologies. This includes computing devices like laptops, mobile devices like tablets, audio-visual devices like cameras and recorders and a range of accessories.
+The Digital Resource Library (DRL) is a public access library of basic technologies. This includes computing devices like laptops, mobile devices like tablets, audio-visual devices like cameras and recorders and a range of accessories.
 
 To ensure the sustainability of the library, the management of devices and leases must be well structured. As a digital social innovation, the library uses accessible digital tools to manage its operations.
 
