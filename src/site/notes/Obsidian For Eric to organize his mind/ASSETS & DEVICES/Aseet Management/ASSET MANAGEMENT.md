@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/asset-management/"}
 ---
 
-
+# ASSET MANAGEMENT
 ## ASSET TAGS
 In order to keep track of various assets available, there is need to develop a tagging system that would differentiate the different asssets that are of the same type. This makes it also easier to give information about a specific asset without confusion as to which asset is being referred to.
 
@@ -26,7 +26,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-
+# MANUAL ASSET REGISTER
 
 </div></div>
 
@@ -37,7 +37,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-
+# AUTOMATED ASSET REGISTER
 ## [**Asset Tiger**](https://www.myassettag.com/assettiger/dashboard)
 
 [Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a device management software used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
@@ -54,6 +54,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
+# AUTOMATED ASSET MANAGEMENT TOOLS
 
 ## [**Zapier.com**](https://zapier.com/)
 
@@ -81,6 +82,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google drive using zapier
 
 
 </div></div>
@@ -91,6 +93,7 @@ For more details on how to automate your tasks using zapier, please see this tut
 
 
 
+# How to connect gmail to google tasks using zapier
 
 
 </div></div>
