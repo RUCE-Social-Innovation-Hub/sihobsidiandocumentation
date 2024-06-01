@@ -5,6 +5,7 @@
 # Configuring Huawei LTE router to act as a bridge
 
 ## Introduction
+
 Setting up an LTE router can seem daunting, but with the right guidance, it becomes a straightforward task. This guide focuses on configuring a Huawei LTE router, covering everything from initial setup to advanced settings. Whether you're a beginner or looking to refine your network settings, this tutorial will walk you through the necessary steps to get your router up and running efficiently.
 
 ## Initial Setup and Connection
