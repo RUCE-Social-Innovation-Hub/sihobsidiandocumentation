@@ -3,7 +3,7 @@
 ---
 
 
-**Bitwarden**
+# BITWARDEN
 
 [Bitwarden](https://bitwarden.com/resources/move-to-bitwarden-from-other-password-manager/) is a password manager where all the accounts and associated passwords used by the Social Innovation Hub are stored securely. The password to log in to Bitwarden must never be saved on any device and is recorded by the lab manager for security.
 
