@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/tools/"}
 ---
 
+# TOOLS
 
 This is where we document a list of all online and software tools that are used in device maintenance 
 
