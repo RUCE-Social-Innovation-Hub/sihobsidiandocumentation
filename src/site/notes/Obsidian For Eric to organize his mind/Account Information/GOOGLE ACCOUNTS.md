@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/account-information/google-accounts/"}
 ---
 
+# GOOGLE ACCOUNTS
 
 Rhodes University uses Google Workspace to host their communications. This includes
 - Premium access to Drive storage, 
