@@ -4,7 +4,6 @@
 
 # INTERNET CONNECTION
 
-==_**Mou with Rhodes University Information and Technology Services**_==
 
 ## 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/sih-fixed-lab/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -36,7 +35,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
         
     2. Using a Desktop computer connected to the internet via ethernet cable and a usb wifi dongle, you can start a wifi hotspot the same way as (1) above. This works as long as the desktop is turned on. Also, from experience, the wifi signal from this strategy is not that strong and does not travel far, therefore, inadequate for large classes occupying the social innovation hub. Details on how to use the desktop computer as a hotspot can be found here: [[Obsidian For Eric to organize his mind/Internet Connection/Configuring and using PC and laptop hotspot\|Configuring and using PC and laptop hotspot]]
         
-    3. Using the Huawei LTE router, connect an ethernet cable from the WAN port of the router to the ethernet outlet on the wall, then plug into the power supply. Our Hub’s router’s ssid and password have already been configured to match the details above, and the router configured to act as a bridge. After you connect to this router’s wifi, you will be brought a login screen, where you will register the router the way you’d register a device connected to the ethernet like a desktop. Once registered, the router’s mac address is attached to your rhodes credentials and anyone who connects to this wifi can now browse the internet. ==Details for configuring this specific model of the router can be found here:== 
+    3. Using the Huawei LTE router, connect an ethernet cable from the WAN port of the router to the ethernet outlet on the wall, then plug into the power supply. Our Hub’s router’s ssid and password have already been configured to match the details above, and the router configured to act as a bridge. After you connect to this router’s wifi, you will be brought a login screen, where you will register the router the way you’d register a device connected to the ethernet like a desktop. Once registered, the router’s mac address is attached to your rhodes credentials and anyone who connects to this wifi can now browse the internet. Details for configuring this specific model of the router can be found here: 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/configuring-huawei-lte-router-to-act-as-a-bridge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -114,3 +113,14 @@ To ensure your Ethernet connection is properly configured, follow these steps:
     
 
 ## [[Obsidian For Eric to organize his mind/Internet Connection/Mobile Labs\|Mobile Labs]] 
+
+
+
+
+
+
+## Rhodes University Community Engagement & Rhodes University Information and Technology Services MOU
+
+<iframe src="https://drive.google.com/file/d/1N4fUWhy8HC-M6okbGqfFu_n8Vr9Hmy9r/view?usp=sharing" width="800" height="600" title="Embedded Google Doc"></iframe>
+
+
