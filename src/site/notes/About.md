@@ -3,6 +3,7 @@
 ---
 
 # About
+
 The DRL is a public access library of basic technologies. This includes computing devices like laptops, mobile devices like tablets, audio-visual devices like cameras and recorders and a range of accessories.
 
 To ensure the sustainability of the library, the management of devices and leases must be well structured. As a digital social innovation, the library uses accessible digital tools to manage its operations.
@@ -216,29 +217,29 @@ Windows computer setup will be broken down into two parts:
 # THE DIFFERENCE BETWEEN WINDOWS ISO TYPES
 
 
-We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
+We keep all our ISO(s) downloaded and stored locally on a flashdrive as shown below, as well as on Google Drive on this link: ------. This enables us to work both offline in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
 
-<iframe src="https://drive.google.com/file/d/1zhzBUqErzzv-wlB8AUT5NgbKDJbUQzMq/view" width="800" height="600" title="Embedded Google Doc"></iframe>
-
-
-The flashdrive shown above has the following list of windows iso files:
-1. 
+![WindowsISO.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/WindowsISO.jpg)
 
 
-This file is meant to document the differences between the different iso files in this flashdrive.
 
-1. en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso is our version 2 windows installation iso. It is a Long Term Servicing Channel, a version of Windows 10 that is designed for use cases where stability and compatibility are more important than access to new features. LTSC releases of Windows 10 are intended for devices that are used in critical systems, such as medical equipment or air traffic control systems or industrial controllers. The primary reason why we use this in the hub is to reduce the number of windows feature updates, and get a more cleaner version of windows with minimum bloatware.
+
+The flash drive shown above has the following list of windows ISO files in the main OS ISO folder:
+1. en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso which can also be downloaded from https://archive.org/details/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96_202212
+2. Win_10_Pro_Build_18363.1909.476.iso which can also be downloaded from https://archive.org/details/win10pro1909.476lite
+
+
+Details of the two ISO(s) are as follows:
+
+1. en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso is our version 1 windows installation ISO and the one we use on a regular at the Social Innovation Hub. It is a Long Term Servicing Channel, a version of Windows 10 that is designed for use cases where stability and compatibility are more important than access to new features. LTSC releases of Windows 10 are intended for devices that are used in critical systems, such as medical equipment or air traffic control systems or industrial controllers. The primary reason why we use this in the Social Innovation Hub is to reduce the number of windows feature updates, and get a more cleaner version of windows with minimum bloatware.
     
-2. Win_10_Pro_Build_18363.1909.476.iso is our windows lean version 3 windows installation. Windows 10 Lean is a smaller edition of Windows 10 for devices with 16GB of storage or less1. It is also known as Windows 10 CloudE or Windows 10 S. It has a smaller footprint and less features than the regular Windows 10, such as no Registry Editor, no Microsoft Management Console, no wallpapers, no drivers for CD/DVD drives, and so on. It is designed to run faster and more efficiently on low-end devices. We use this as our version 3 windows installation because it does not have bloatware at all and can run effeciently on low specs devices. However, we will have to hunt down for drivers for this version of windows.
+2. Win_10_Pro_Build_18363.1909.476.iso is our windows lean version 2 windows installation. Windows 10 Lean is a smaller edition of Windows 10 for devices with 16GB of storage or less. It is also known as Windows 10 CloudE or Windows 10 S. It has a smaller footprint and less features than the regular Windows 10, such as no Registry Editor, no Microsoft Management Console, no wallpapers, no drivers for CD/DVD drives, and so on. It is designed to run faster and more efficiently on low-end devices. We use this as our version 3 windows installation because it does not have bloatware at all and can run efficiently on low specs devices. However, we will have to hunt down for drivers for this version of windows.
     
+The rest of the ISO files in the Archive folder are experimental and have not been fully implemented. 
+	Please feel free to play around with them as per requirements. However, Windows 10 Lite Edition 19H2 x64.iso seemed to run slow for some strange reason after installation. It slowed down the computer using this version of windows and i needed more time to investigate. tiny10 21H2 x64 2209.iso is still untested.
 
-### Miscalleneous
 
-[](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/OS_ISO#-miscalleneous)
 
-As of the time i wrote this documentation, the remaining versions of windows were lagely untested. Please feel free to play around with them as per requirements. However, Windows 10 Lite Edition 19H2 x64.iso seemed to run slow for some strange reason after installation - It slowed down the computer using this version of windows and i needed more time to investigate. tiny10 21H2 x64 2209.iso is still untested.
-
-Version 1 of windows refers to the version that came pre-installed with the computer.
 
 </div></div>
 
@@ -246,7 +247,8 @@ Version 1 of windows refers to the version that came pre-installed with the comp
 
 1. _Windows OS installation_ Which can be found on the [OS_ISO](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/OS_ISO) branch of our github documentation
 
-<iframe src="https://drive.google.com/file/d/1Fw-_nMnFrNlqqTzO25SSzY3WYpZ1tUOs/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
+![WindowsInstallation.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/WindowsInstallation.jpg)
+
 
 
 The 4 Bootable flashdrives to the right are Windows 10 installation drives with the following differences:
@@ -270,10 +272,8 @@ To the right, the flashdrive has all the iso and software that can be used to cr
 
 2. _Software Installation._ Which can be found on the [Win10_lean](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_lean) or [Win10_LTSC](https://github.com/RUCE-Social-Innovation-Hub/RUCE-SIH-Offline-Software-Installation/tree/Win10_LTSC) branches of our github account. These flash drives are to be used with their respective flavors of windows installation. They contain scripts which creates user accounts, removes excess programmes and installs required programmes.
     
-
+![SoftwareInstallation.jpg](/img/user/Obsidian%20For%20Eric%20to%20organize%20his%20mind/ASSETS%20&%20DEVICES/Device%20Maintenance/SoftwareInstallation.jpg)
   
-<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
-<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view" width="800" height="600" title="Embedded Google Doc"></iframe>
 
 
 
