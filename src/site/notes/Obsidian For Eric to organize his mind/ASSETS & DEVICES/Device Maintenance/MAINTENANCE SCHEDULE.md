@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/maintenance-schedule/"}
 ---
 
+# MAINTENANCE SCHEDULE
 
 This is where we give a list of tasks necessary for the smooth operation of SIH devices. 
 
