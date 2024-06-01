@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/device-maintenance/"}
 ---
 
+# DEVICE MAINTENANCE
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/calendars/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -9,6 +10,7 @@
 
 
 
+# CALENDARS
 
 Google Calendars are used TO TRACk maintenance schedule
 
@@ -19,6 +21,7 @@ Google Calendars are used TO TRACk maintenance schedule
 
 
 
+# MAINTENANCE SCHEDULE
 
 This is where we give a list of tasks necessary for the smooth operation of SIH devices. 
 
@@ -55,6 +58,7 @@ This is where we give a list of tasks necessary for the smooth operation of SIH 
 
 
 
+# WINDOWS COMPUTER SETUP
 
 Windows computer setup will be broken down into two parts:
 
@@ -63,6 +67,8 @@ Windows computer setup will be broken down into two parts:
 
 
 
+
+# THE DIFFERENCE BETWEEN WINDOWS ISO TYPES
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
@@ -122,6 +128,8 @@ To the right, the flashdrive has all the iso and software that can be used to cr
 
   
 <iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
+<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 
 There is a [script](https://drive.google.com/drive/folders/1iBlNXMg1huBp4YyCMhtNqsTUaIEf1xi3?usp=share_link) that can be run to set up all needed software and login info for computers and laptops.
@@ -145,6 +153,7 @@ S – is the offline setup for computers and laptops
 
 
 
+# TOOLS
 
 This is where we document a list of all online and software tools that are used in device maintenance 
 
@@ -167,6 +176,7 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
+# RUCE STAFF DEVICE MANAGEMENT
 
 
 </div></div>
