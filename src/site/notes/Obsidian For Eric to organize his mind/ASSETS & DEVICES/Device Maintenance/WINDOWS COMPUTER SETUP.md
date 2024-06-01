@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/windows-computer-setup/"}
 ---
 
+# WINDOWS COMPUTER SETUP
 
 Windows computer setup will be broken down into two parts:
 
@@ -10,6 +11,8 @@ Windows computer setup will be broken down into two parts:
 
 
 
+
+# THE DIFFERENCE BETWEEN WINDOWS ISO TYPES
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
