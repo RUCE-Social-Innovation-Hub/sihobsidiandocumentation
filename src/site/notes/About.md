@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about/","tags":["gardenEntry"]}
 ---
 
-
+# About
 The DRL is a public access library of basic technologies. This includes computing devices like laptops, mobile devices like tablets, audio-visual devices like cameras and recorders and a range of accessories.
 
 To ensure the sustainability of the library, the management of devices and leases must be well structured. As a digital social innovation, the library uses accessible digital tools to manage its operations.
@@ -17,13 +17,16 @@ This document describes the management and operations of the digital resource ce
 
 [Additional resources fo DRL](https://docs.google.com/document/d/1nmzcbd7gG5CQVDUhx_hyGtRAGhbBkAEhI4X7cxRPXBg/edit?usp=sharing)
 
+---
+
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/assets-and-devices/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-
+# ASSETS & DEVICES
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/asset-management/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -31,7 +34,7 @@ This document describes the management and operations of the digital resource ce
 
 
 
-
+# ASSET MANAGEMENT
 ## ASSET TAGS
 In order to keep track of various assets available, there is need to develop a tagging system that would differentiate the different asssets that are of the same type. This makes it also easier to give information about a specific asset without confusion as to which asset is being referred to.
 
@@ -55,7 +58,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-
+# MANUAL ASSET REGISTER
 
 </div></div>
 
@@ -66,7 +69,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
-
+# AUTOMATED ASSET REGISTER
 ## [**Asset Tiger**](https://www.myassettag.com/assettiger/dashboard)
 
 [Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a device management software used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
@@ -83,6 +86,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 
+# AUTOMATED ASSET MANAGEMENT TOOLS
 
 ## [**Zapier.com**](https://zapier.com/)
 
@@ -143,6 +147,7 @@ The following devices are being tracked.
 
 
 
+# DEVICE MAINTENANCE
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/device-maintenance/calendars/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -150,6 +155,7 @@ The following devices are being tracked.
 
 
 
+# CALENDARS
 
 Google Calendars are used TO TRACk maintenance schedule
 
@@ -160,6 +166,7 @@ Google Calendars are used TO TRACk maintenance schedule
 
 
 
+# MAINTENANCE SCHEDULE
 
 This is where we give a list of tasks necessary for the smooth operation of SIH devices. 
 
@@ -196,6 +203,7 @@ This is where we give a list of tasks necessary for the smooth operation of SIH 
 
 
 
+# WINDOWS COMPUTER SETUP
 
 Windows computer setup will be broken down into two parts:
 
@@ -204,6 +212,8 @@ Windows computer setup will be broken down into two parts:
 
 
 
+
+# THE DIFFERENCE BETWEEN WINDOWS ISO TYPES
 
 
 We keep all our iso(s) downloaded and stored locally on a flashdrive as shown below. This enables us to work both offline, within the community, in situations where there is no internet access, as well as work faster in that we wont have to wait for an iso file to download before setting up a bootable flashdrive. 
@@ -263,6 +273,8 @@ To the right, the flashdrive has all the iso and software that can be used to cr
 
   
 <iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view?usp=drive_link" width="800" height="600" title="Embedded Google Doc"></iframe>
+<iframe src="https://drive.google.com/file/d/1W2dVoIodYEaLk-7nMzShf9aczKd1JAot/view" width="800" height="600" title="Embedded Google Doc"></iframe>
+
 
 
 There is a [script](https://drive.google.com/drive/folders/1iBlNXMg1huBp4YyCMhtNqsTUaIEf1xi3?usp=share_link) that can be run to set up all needed software and login info for computers and laptops.
@@ -286,6 +298,7 @@ S – is the offline setup for computers and laptops
 
 
 
+# TOOLS
 
 This is where we document a list of all online and software tools that are used in device maintenance 
 
@@ -308,6 +321,7 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
+# RUCE STAFF DEVICE MANAGEMENT
 
 
 </div></div>
@@ -321,6 +335,14 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 </div></div>
+
+
+
+
+
+
+---
+
 
 
 
@@ -331,6 +353,7 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
+# ACCOUNT INFORMATION
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/account-information/google-accounts/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -338,6 +361,7 @@ TeamViewer / Anydesk can be used to remotely access a desktop using the internet
 
 
 
+# GOOGLE ACCOUNTS
 
 Rhodes University uses Google Workspace to host their communications. This includes
 - Premium access to Drive storage, 
@@ -372,11 +396,21 @@ This is a less secure admin account for the Social Innovation Hub and can be use
 
 
 
+
+
+---
+
+
+
+
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/password-management/password-management/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
+# PASSWORD MANAGEMENT
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/password-management/bitwarden/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -385,7 +419,7 @@ This is a less secure admin account for the Social Innovation Hub and can be use
 
 
 
-**Bitwarden**
+# BITWARDEN
 
 [Bitwarden](https://bitwarden.com/resources/move-to-bitwarden-from-other-password-manager/) is a password manager where all the accounts and associated passwords used by the Social Innovation Hub are stored securely. The password to log in to Bitwarden must never be saved on any device and is recorded by the lab manager for security.
 
@@ -411,11 +445,18 @@ Every new Equipment Manager should change the Bitwarden and Gmail passwords unde
 
 
 
+---
+
+
+
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/internet-connection/internet-connection/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
+# INTERNET CONNECTION
 
 ==_**Mou with Rhodes University Information and Technology Services**_==
 
@@ -424,6 +465,8 @@ Every new Equipment Manager should change the Bitwarden and Gmail passwords unde
 
 
 
+
+# SIH Fixed Lab
 
 
 There are a number of ways to connect to the internet from SIH Fixed lab at Rhodes University as documented below.
@@ -438,6 +481,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring and using PC and laptop hotspot
 
 
 </div></div>
@@ -449,6 +493,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring and using PC and laptop hotspot
 
 
 </div></div>
@@ -460,6 +505,7 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+# Configuring Huawei LTE router to act as a bridge
 
 
 </div></div>
@@ -484,6 +530,14 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 
+
+---
+
+
+
+
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/communication-and-access/communication-and-access/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -500,6 +554,15 @@ There are a number of ways to connect to the internet from SIH Fixed lab at Rhod
 
 
 </div></div>
+
+
+
+
+
+---
+
+
+
 
 
 
