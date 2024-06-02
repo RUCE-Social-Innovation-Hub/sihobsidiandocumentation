@@ -73,14 +73,32 @@ Asset registers are methods through which we keep track of our assets. There are
 # AUTOMATED ASSET REGISTER
 ## [**Asset Tiger**](https://www.myassettag.com/assettiger/dashboard)
 
-[Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a device management software used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
+[Asset Tiger](https://www.myassettag.com/assettiger/dashboard) is a cloud-based asset management tool used to track equipment, availability, maintenance, loans and check outs, bookings and disposal.
 
-==**Describe categories**==
+
+
+### **Categories**: 
+- The Social Innovation Hub organizes assets into categories, allowing for streamlined tracking and reporting. These are the categories we use:
+	- 
+
+
+### **Leases**: 
+- The platform provides tools to manage leased assets, including tracking lease terms and renewal dates. The Social Innovation hub Leases out equipment to the members of the general public as well as the community partners after filling out an online linktree form described here: [[Obsidian For Eric to organize his mind/Communication and Access/COMMUNICATION AND ACCESS\|COMMUNICATION AND ACCESS]]
+
+
+
+### **Checkouts**: 
+- Enables tracking of asset checkouts, helping users monitor who has what and when it’s due back. The Social Innovation Hub checks out equipment to Rhodes University Staff members after they fill out an online linktree form described here: [[Obsidian For Eric to organize his mind/Communication and Access/COMMUNICATION AND ACCESS\|COMMUNICATION AND ACCESS]]
+
+
+
+
+## Comprehensive list of SIH Assets from Assettiger
 ![[AssetByCategory.pdf]]
 
-==**Describe leases vs check outs**==
 
-==**Describe budget tracking**==
+
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/assets-and-devices/aseet-management/automated-asset-management-tools/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -92,7 +110,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 ## [**Zapier.com**](https://zapier.com/)
 
-Zapier is an online automation tool that connects different services online and automating them as needed.   
+Zapier is an online automation tool that connects different services online and automating them as needed.   The Free plan offers only two actions such as connecting gmail to google drive or gmail to google tasks.
 
 For our purposes, Zapier is used to generate tasks on [socialinnovationhub.ru@gmail.com](mailto:socialinnovationhub.ru@gmail.com) that relate to assets needing to be renewed as their expiry date comes close. It is also used to transfer attached pdf(s) of various activities to google drive for future reference purposes. These activities are described below in detail.
 
@@ -132,10 +150,65 @@ The following devices are being tracked.
         
 - Windows Laptops can be tracked using the following link: [https://account.microsoft.com/devices](https://account.microsoft.com/devices). They are logged in using [sihdevices@gmail.com](mailto:sihdevices@gmail.com) Microsoft account on the RUCE Admin account. Login details can be found in the main Bitwarden account. This Admin account must not be shared. It is not very accurate in tracking.
 
-#### SECURITY FLAWS IN ASSET TRACKING
-==Explain security flaws==
 
 
+
+
+
+## SECURITY FLAWS IN ASSET TRACKING
+
+
+### macOS
+
+#### Security of Tracking Mechanisms:
+1. [**Find My Mac**](https://www.icloud.com/find): Apple provides a built-in tracking mechanism called "Find My Mac" which integrates with iCloud.  uses the apple ID 
+   - **Activation Lock**: This feature ties the device to Social Innovation hub Apple ID, requiring the ID and password, found on [[Obsidian For Eric to organize his mind/Password Management/BITWARDEN\|BITWARDEN]], to disable Find My Mac or reactivate the device after it has been erased.
+#### How Easy to Circumvent:
+1. **Bypassing Activation Lock**:
+   - **Firmware Reset**: A determined thief might attempt to perform a firmware reset using tools like Apple Configurator, but this often requires access to another Mac.
+   - **Professional Tools**: There are illegal tools and services that claim to bypass Apple's Activation Lock, but these often require physical access to the hardware and are not easily accessible to average users.
+2. **Removing the Hard Drive**:
+   - **Replacement**: Removing and replacing the hard drive can circumvent the software-based tracking, but this also involves significant technical skills and tools, and the data on the original drive would be lost.
+
+
+
+### WindowsOS
+
+#### Security of Tracking Mechanisms:
+1. [**Find My Device**](https://account.microsoft.com/devices?lang=en-GB#main-content-landing-react): Windows offers "Find My Device" which links to a Microsoft account who's password can also be found in [[Obsidian For Eric to organize his mind/Password Management/BITWARDEN\|BITWARDEN]].
+   - **BitLocker Encryption**: If enabled, BitLocker provides disk encryption, adding a layer of security. However, to re-install the operating system, one needs to disable bitlocker encryption. 
+   - **Secure Boot**: Ensures that the device boots using only trusted software from the OEM. May need to be disabled when installing windows operating system as described in [[Obsidian For Eric to organize his mind/ASSETS & DEVICES/Device Maintenance/Installing Windows 10 on a PC or laptop\|Installing Windows 10 on a PC or laptop]]
+#### How Easy to Circumvent:
+1. **Disabling Find My Device**:
+   - **Local Account**: If the thief can access the local account settings, they might disable the Find My Device feature, although this typically requires administrator privileges.
+   - **Factory Reset**: A factory reset can disable tracking, though BitLocker may prevent data access if enabled.
+2. **Boot from External Media**:
+   - **Live USB/CD**: Booting from an external USB drive or CD with a Linux distribution can bypass the Windows OS, although this does not necessarily disable tracking but can provide access to the device without triggering it.
+   - **Reset BIOS/UEFI**: Resetting BIOS/UEFI settings to disable Secure Boot can help in accessing the device, but requires technical knowledge and can be easily blocked by enabling BitLocker Encryption.
+
+
+
+### AndroidOS
+
+#### Security of Tracking Mechanisms:
+1. [**Find My Device**](https://www.google.com/android/find/): Android’s built-in tracking mechanism for the social innovation hub android devices links to the Google account sihvisitors@gmail.com .
+   - **Factory Reset Protection (FRP)**: This feature prevents the device from being used after a factory reset without the original Google account credentials. However, it varies with device make and model. 
+   - **Google Play Protect**: Continuously scans for malware and provides some level of security against unauthorized access.
+
+#### How Easy to Circumvent:
+1. **Disabling Find My Device**:
+   - **Factory Reset**: Performing a factory reset is a common way to disable tracking, but FRP ensures that the device cannot be reactivated without the original credentials.
+2. **Bypassing FRP**:
+   - **Exploits and Tools**: There are known exploits and third-party tools that can bypass FRP, but these are often patched by Google and require technical knowledge.
+   - **Custom ROMs**: Installing a custom ROM can circumvent factory settings and disable tracking features, but this requires unlocking the bootloader, which is not always possible without the original owner's consent.
+3. **Physical Access**:
+   - **Hardware Tampering**: Removing the battery (if possible) or altering hardware components can disable tracking, but modern devices with non-removable batteries make this difficult.
+
+
+
+
+### Other Devices
+Other devices such as cameras and tripod stands are not tracked. 
 
 </div></div>
 
@@ -715,14 +788,65 @@ To ensure your Ethernet connection is properly configured, follow these steps:
 
 
 
+# COMMUNICATION AND ACCESS
 
 ## **LinkTree**
 
-==**Equipment Information**== – this account is for the SIH team to keep track of all the important documents and links relating to managing equipment and the DRC. Links include Asset Tiger, equipment borrowing records, Bitwarden etc. A QR code is kept in the equipment cupboard for convenience.
+The Social Innovation Hub has the following links:
 
-==**Communications**== – Links to our website and other ways of getting in touch with the hub and the various Forums.
+### 1. [sihvisitors](https://linktr.ee/sihvisitors)
 
-## ==**QR CODES**==
+ Used for booking and feedback purposes:
+
+1. **BOOKED TIMES: see when the Hub is busy** - a link to view the current bookings and availability of the Hub.
+2. **EQUIPMENT PROPOSAL: Public** - a link for the general public to book the use of equipment.
+3. **EQUIPMENT PROPOSAL: RU Staff** - a link for Rhodes University staff to book the use of equipment.
+4. **EQUIPMENT RETURN: Feedback form** - a link to a form for providing feedback.
+<iframe src="https://linktr.ee/sihvisitors" width="100%" height="800" style="border:none;"></iframe>
+
+
+
+### 2. [socialinnovationhub.ru](https://linktr.ee/socialinnovationhub.ru)
+
+Used for the digital story telling and social innovators network
+
+1. **DIGITAL STORYTELLING FORUM**: Whatsapp link to access the forum.
+2. **SOCIAL INNOVATORS NETWORK**: Whatsapp link to access the network.
+<iframe src="https://linktr.ee/socialinnovationhub.ru" width="100%" height="800" style="border:none;"></iframe>
+
+
+
+
+
+## **Website**
+### 1. [SocialInnovationHub website](https://www.ru.ac.za/communityengagement/socialinnovation/aboutthesocialinnovationhub/)
+
+Link to the social innovation website 
+
+<iframe src="https://www.ru.ac.za/communityengagement/socialinnovation/aboutthesocialinnovationhub/" width="100%" height="1000" style="border:none;"></iframe>
+
+
+
+
+
+
+## **Social Media**
+
+### 1. [RUCE Facebook](https://www.facebook.com/RUCECommunityEngagement)
+
+Rhodes University Community Engagement Facebook Page. 
+<iframe src="https://www.facebook.com/RUCECommunityEngagement" width="100%" height="1000" style="border:none;"></iframe>
+
+
+
+
+
+
+
+### 2. [RUCE Instagram](https://www.instagram.com/ruengagement/)
+
+Rhodes University Community Engagement Instagram Page
+<iframe src="https://www.instagram.com/ruengagement/" width="100%" height="1000" style="border:none;"></iframe>
 
 
 </div></div>
@@ -738,25 +862,77 @@ To ensure your Ethernet connection is properly configured, follow these steps:
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/storage-and-file-transferring/storage-and-file-transferring/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-for-eric-to-organize-his-mind/storage-and-file-transferring/file-sharing-and-storage/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-## **Storage and file transferring**
+# **FILE SHARING AND STORAGE**
 
+## FILE SHARING
+
+1. **QuickShare**
+   - **Overview:** Android-specific fast file-sharing service.
+   - **Key Features:** Speed, seamless integration, secure sharing.
+   - **Use Case:** Best for Android device users for quick sharing.
+
+
+2. **Pushbullet**
+   - **Overview:** Cross-platform file sharing and notification mirroring.
+   - **Key Features:** Device synchronization, SMS messaging, notification mirroring.
+   - **Use Case:** For users needing seamless file and link sharing across devices.
+
+3. **GoFile (https://gofile.io/welcome)**
+   - **Overview:** Free, unlimited storage file-sharing service.
+   - **Key Features:** Unlimited storage, no registration, file encryption.
+   - **Use Case:** Sharing large files without restrictions.
+
+4. **WeTransfer (https://wetransfer.com/)**
+   - **Overview:** Simple, user-friendly file-sharing service.
+   - **Key Features:** Up to 2GB file sharing for free, password protection, customizable Pro features.
+   - **Use Case:** Easy and quick sharing of large files.
+
+5. [_**Multicloud**_](https://app.multcloud.com/mc_project/home_page?callBack=eyJ1ZCI6IjM4MjMyOGFjMTVmYTQ2NzhhZDg5MzIyNWM5YmY4ZTQ5Iiwic2FsdCI6IjhlZGZhYjUzYTViZTQ4ODdiMWJjYjRjMzIyODI3NzA0IiwibGFuZ3VhZ2UiOiJlbi1VUyIsInhjZCI6ImNkMT1QdWJsaWNEZWxvcmVzJmNkMj0vc2lnbiJ9)
+   - **Overview:** Manages multiple cloud storage services from one interface.
+   - **Key Features:** Supports multiple cloud services, file transfer, sync, encryption, automation.
+   - **Use Case:** Users with multiple cloud storage accounts needing efficient file management and transfer.
+
+
+
+
+## STORAGE
   
-[_**Multicloud**_](https://app.multcloud.com/mc_project/home_page?callBack=eyJ1ZCI6IjM4MjMyOGFjMTVmYTQ2NzhhZDg5MzIyNWM5YmY4ZTQ5Iiwic2FsdCI6IjhlZGZhYjUzYTViZTQ4ODdiMWJjYjRjMzIyODI3NzA0IiwibGFuZ3VhZ2UiOiJlbi1VUyIsInhjZCI6ImNkMT1QdWJsaWNEZWxvcmVzJmNkMj0vc2lnbiJ9) – transfers documents from one cloud to another online with no download required. Useful for moving whole folders in Google Drive. Login details on Bitwarden
-
-_**Google Drive Shared Drives**_ **-** Currently, there are Sih Visitors, Social Innovation Hub and RUCE shared Drives. 
-
-==***MEGA***== 
-
-==***Dropbox***==
 
 
+### Google Drive
+Rhodes University uses Google Workspace therefore enabling premium access to Drive storage. ==This comes with the ability to create a shared drive storage each 500 GB capacity. ==
 
+Consequently, we have the following shared drives:
+- Sih Visitors
+- Social Innovation Hub 
+- RUCE  
+
+#### Google Drive for Desktop
+
+To easily manage and share content across all your devices and the cloud, use Google’s desktop sync client: Drive for desktop. Drive for desktop can be used to find your Drive files and folders on your computer with Windows File Explorer or macOS Finder.
+
+If you edit, delete, or move a file on the Cloud, the same change happens on your computer and devices, and vice versa. That way, your files are always up to date and can be accessed from any device.
+
+
+#### Install & set up Drive for desktop
+
+1. Download Drive for desktop:
+    [DOWNLOAD FOR WINDOWS](https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe)
+
+2. Open "GoogleDriveSetup.exe."
+
+3. Follow the on-screen instructions.
+
+
+On Drive for desktop, at the bottom right, in the system tray, you can find the Drive for desktop menu ![Drive File Stream](https://storage.googleapis.com/support-kms-prod/jiEgyvvMKdtzVV3MoCUyl0EWTmekFj0smSXr).
+
+**Tip:** To ”Show hidden icons,” click the arrow.
 
 </div></div>
 
