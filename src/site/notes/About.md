@@ -10,7 +10,7 @@ To ensure the sustainability of the library, the management of devices and lease
 
 This document describes the management and operations of the digital resource centre.
 
-**Manager note: Full folder of all related documents can be found here:**
+#### **Manager note: Full folder of all related documents can be found here:**
 
 [How to for script](https://drive.google.com/drive/folders/1z-5COArY4eoRk-1p_qVCrfgM7B1rDVkb?usp=share_link)
 
@@ -78,7 +78,7 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 ### **Categories**: 
-- The Social Innovation Hub organizes assets into categories, allowing for streamlined tracking and reporting. These are the categories we use:
+- The Social Innovation Hub organizes assets into categories, allowing for streamlined tracking and reporting. ==These are the categories we use:==
 	- 
 
 
@@ -107,6 +107,12 @@ Asset registers are methods through which we keep track of our assets. There are
 
 
 # AUTOMATED ASSET MANAGEMENT TOOLS
+
+## Gmail Filters
+
+Gmail filters are used to organise incoming emails, especially from services such as [[Obsidian For Eric to organize his mind/ASSETS & DEVICES/Aseet Management/AUTOMATED ASSET REGISTER#[**Asset Tiger**](https //www.myassettag.com/assettiger/dashboard)\|AUTOMATED ASSET REGISTER#[**Asset Tiger**](https //www.myassettag.com/assettiger/dashboard)]] and Equipment request forms described in [[Obsidian For Eric to organize his mind/Communication and Access/COMMUNICATION AND ACCESS#1. [sihvisitors](https //linktr.ee/sihvisitors)\|COMMUNICATION AND ACCESS#1. [sihvisitors](https //linktr.ee/sihvisitors)]]
+
+![[Obsidian For Eric to organize his mind/ASSETS & DEVICES/Aseet Management/Setting up Gmail Filters\|Setting up Gmail Filters]]
 
 ## [**Zapier.com**](https://zapier.com/)
 
@@ -162,7 +168,7 @@ The following devices are being tracked.
 
 #### Security of Tracking Mechanisms:
 1. [**Find My Mac**](https://www.icloud.com/find): Apple provides a built-in tracking mechanism called "Find My Mac" which integrates with iCloud.  uses the apple ID 
-   - **Activation Lock**: This feature ties the device to Social Innovation hub Apple ID, requiring the ID and password, found on [[Obsidian For Eric to organize his mind/Password Management/BITWARDEN\|BITWARDEN]], to disable Find My Mac or reactivate the device after it has been erased.
+   - **Activation Lock**: This feature ties the device to Social Innovation hub Apple ID, requiring the ID and password, found on Bitwarden, to disable Find My Mac or reactivate the device after it has been erased.
 #### How Easy to Circumvent:
 1. **Bypassing Activation Lock**:
    - **Firmware Reset**: A determined thief might attempt to perform a firmware reset using tools like Apple Configurator, but this often requires access to another Mac.
@@ -175,7 +181,7 @@ The following devices are being tracked.
 ### WindowsOS
 
 #### Security of Tracking Mechanisms:
-1. [**Find My Device**](https://account.microsoft.com/devices?lang=en-GB#main-content-landing-react): Windows offers "Find My Device" which links to a Microsoft account who's password can also be found in [[Obsidian For Eric to organize his mind/Password Management/BITWARDEN\|BITWARDEN]].
+1. [**Find My Device**](https://account.microsoft.com/devices?lang=en-GB#main-content-landing-react): Windows offers "Find My Device" which links to a Microsoft account who's password can also be found in Bitwarden.
    - **BitLocker Encryption**: If enabled, BitLocker provides disk encryption, adding a layer of security. However, to re-install the operating system, one needs to disable bitlocker encryption. 
    - **Secure Boot**: Ensures that the device boots using only trusted software from the OEM. May need to be disabled when installing windows operating system as described in [[Obsidian For Eric to organize his mind/ASSETS & DEVICES/Device Maintenance/Installing Windows 10 on a PC or laptop\|Installing Windows 10 on a PC or laptop]]
 #### How Easy to Circumvent:
